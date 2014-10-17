@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[urg:home|Door43 (urg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-urg|d43-urg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-urg/archive/master.zip|d43-urg.zip]]
+
+**Recent Changes**
+{{changes>ns = urg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/urg|Ethnologue data]]
+
